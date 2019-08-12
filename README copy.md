@@ -1,6 +1,3 @@
-# lucky-cli
-前端工程化 - 脚手架
-
 ### 安装依赖
 
 `npm install`
